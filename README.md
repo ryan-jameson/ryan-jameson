@@ -13,11 +13,10 @@
 ```yaml
 Name:       任健鑫 (Ryan Jameson)
 Role:       大学生 / 嵌入式开发者
-Passion:    热爱开源，拥抱社区 🌍
 Languages:  C, Python
 Embedded:   RT-Thread RTOS
 Learning:   HTML, JavaScript
-Goal:       用代码让嵌入式世界更有趣 ⚡
+Goal:       无限进步，持续创造
 ```
 
 - 🎓 在校大学生，专注于**嵌入式系统开发**
@@ -63,9 +62,6 @@ Goal:       用代码让嵌入式世界更有趣 ⚡
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ryan-jameson&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=cn" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-jameson&layout=compact&theme=tokyonight&hide_border=true&locale=cn" />
 
 </div>
 
