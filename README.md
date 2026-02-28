@@ -2,7 +2,7 @@
 
 # 你好 👋, 我是任健鑫 (Ryan Jameson)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Embedded+Developer+%7C+Open+Source+Enthusiast;C+%2F+Python+%2F+RT-Thread;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=EEmbedded+Developer+%7C+Open+Source+Enthusiast;C+%2F+Python+%2F+RT-Thread;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
